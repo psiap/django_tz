@@ -6,7 +6,7 @@ django-rest-knox==4.1.0
 djangorestframework==3.11.0
 lark-parser==0.9.0
 packages==0.1.0
-Pillow==7.2.0
+Pillow==8.1.1
 pycparser==2.20
 pytz==2020.1
 required==0.4.0
